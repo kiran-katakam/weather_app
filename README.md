@@ -23,7 +23,7 @@ A simple and elegant weather app built with **Flutter** that fetches real-time w
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/kiran-katakam/weather_app.git
    cd weather-app
    ```
 
